@@ -1,5 +1,5 @@
 # PyTorch Action Anticipation Losses
-This repository implements the Verb-Noun Marginal Cross Entropy Loss (VNMCE) proposed in the paper:
+This repository implements the Verb-Noun Marginal Cross Entropy Loss (VNMCE) proposed in the paper ([download here](http://iplab.dmi.unict.it/furnari/publications/furnari2018Leveraging.pdf)):
 
 `A. Furnari, S. Battiato, G. M. Farinella (2018). Leveraging Uncertainty to Rethink Loss Functions and Evaluation Measures for Egocentric Action Anticipation . In International Workshop on Egocentric Perception, Interaction and Computing (EPIC) in conjunction with ECCV.`
 
@@ -14,7 +14,6 @@ Please reference this publication if you find this code useful:
   author = { A. Furnari and S. Battiato and G. M. Farinella },
   title = {  Leveraging Uncertainty to Rethink Loss Functions and Evaluation Measures for Egocentric Action Anticipation  },
   booktitle = {  International Workshop on Egocentric Perception, Interaction and Computing (EPIC) in conjunction with ECCV  },
-  pdf = { publications/furnari2018Leveraging.pdf },
   year = { 2018 },
 }
 ```
