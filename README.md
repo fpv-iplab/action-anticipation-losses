@@ -9,10 +9,12 @@ This repository also reports an implementation of the Truncated Top-5 Entropy Lo
 
 Please reference this publication if you find this code useful:
 
-`@inproceedings{furnari2018Leveraging,
+```
+@inproceedings{furnari2018Leveraging,
   author = { A. Furnari and S. Battiato and G. M. Farinella },
   title = {  Leveraging Uncertainty to Rethink Loss Functions and Evaluation Measures for Egocentric Action Anticipation  },
   booktitle = {  International Workshop on Egocentric Perception, Interaction and Computing (EPIC) in conjunction with ECCV  },
   pdf = { publications/furnari2018Leveraging.pdf },
   year = { 2018 },
-}`
+}
+```
