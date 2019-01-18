@@ -1,3 +1,6 @@
+# Video Demo
+[![Video Demo](video.png)](https://www.youtube.com/watch?v=w_3FiIcnUlc)
+
 # PyTorch Action Anticipation Losses
 This repository implements the Verb-Noun Marginal Cross Entropy Loss (VNMCE) proposed in the paper ([download here](http://iplab.dmi.unict.it/furnari/publications/furnari2018Leveraging.pdf)):
 
