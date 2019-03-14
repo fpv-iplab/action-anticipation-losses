@@ -18,7 +18,7 @@ class MarginalCrossEntropyLoss(_Loss):
             marginal_indexes: list of indexes for each of the marginal probabilities
             numclass: number of classes (e.g., number of actions)
             size_average: whether to average the losses in the batch (if False, they are summed)
-            reduce: if False, all individual losses are applied, otherwise they are summed/averaged depending on size_average
+            reduction: if None, all individual losses are returned, if 'mean' they are averaged, if 'sum' they are summed
             """
         super().__init__(reduction=reduction)
         marginal_masks = []
